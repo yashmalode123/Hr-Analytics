@@ -1,1 +1,2 @@
 # Hr-Analytics
+I created this project in which I found the gender breakdown of employees in the company, the race/ethnicity breakdown of employees in the company, age distribution of employees in the company, how many employees work at headquarters versus remote locations, what is the average length of employment for employees who have been terminated, what is the tenure distribution for each department
